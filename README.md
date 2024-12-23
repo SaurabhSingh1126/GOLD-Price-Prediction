@@ -1,1 +1,2 @@
-# GOLD-Price-Prediction
+# Gold_price_prediciton
+ 
